@@ -1,0 +1,4 @@
+#pragma once
+// the configured options and settings for Tutorial
+#define dummy_VERSION_MAJOR @dummy_VERSION_MAJOR@
+#define dummy_VERSION_MINOR @dummy_VERSION_MINOR@
